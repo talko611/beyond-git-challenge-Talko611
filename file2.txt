@@ -5,6 +5,7 @@ in, pellentesque
 mattis orci. Aliquam elementum finibus
 
 dictum. CHANGED BY MAINTAINER
+dictum. CHANGED BY CONTRIBUTOR
 
 Integer ac nibh nec est porttitor semper ultrices
 eu ligula. Etiam sodales porttitor venenatis.
